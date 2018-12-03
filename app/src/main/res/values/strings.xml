@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Notificaciones</string>
+    <string name="boton_crea_notif">Crear Notificación</string>
+    <string name="canal">CANAL</string>
+    <string name="desc_canal">Descripción del Canal</string>
+    <string name="nom_canal">Mi Canal</string>
+    <string name="url_maspalabras">https://mas-palabras.firebaseapp.com/</string>
+    <string name="texto_largo_notif">Más Palabras es una aplicación diseñada para teléfonos smartphone y tabletas Android.
+        Su cometido es construir todas las palabras existentes con el conjunto de letras que le indiquemos.</string>
+    <string name="texto_largo_notif2">Más Palabras es una aplicación diseñada para teléfonos smartphone y tabletas Android.
+        Su cometido es construir todas las palabras existentes con el conjunto de letras que le indiquemos. Saber más…</string>
+    <string name="url_gplay">https://play.google.com/store/apps/details?id=com.jmdh.android.MasPalabras</string>
+    <string name="action_cancel_notification">com.example.jose.notificaciones_NOTIFICATION_CANCEL</string>
+    <string name="action_show_web">com.example.jose.notificaciones_NOTIFICATION_SHOW_WEB</string>
+</resources>
